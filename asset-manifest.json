@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2fc619d8.css",
-    "main.js": "/static/js/main.7f5023ba.js",
-    "static/js/787.6bd64465.chunk.js": "/static/js/787.6bd64465.chunk.js",
-    "index.html": "/index.html",
-    "main.2fc619d8.css.map": "/static/css/main.2fc619d8.css.map",
-    "main.7f5023ba.js.map": "/static/js/main.7f5023ba.js.map",
-    "787.6bd64465.chunk.js.map": "/static/js/787.6bd64465.chunk.js.map"
+    "main.css": "/capstone-project-3-chat-application/static/css/main.2fc619d8.css",
+    "main.js": "/capstone-project-3-chat-application/static/js/main.e63fa7e6.js",
+    "static/js/787.6bd64465.chunk.js": "/capstone-project-3-chat-application/static/js/787.6bd64465.chunk.js",
+    "index.html": "/capstone-project-3-chat-application/index.html",
+    "main.2fc619d8.css.map": "/capstone-project-3-chat-application/static/css/main.2fc619d8.css.map",
+    "main.e63fa7e6.js.map": "/capstone-project-3-chat-application/static/js/main.e63fa7e6.js.map",
+    "787.6bd64465.chunk.js.map": "/capstone-project-3-chat-application/static/js/787.6bd64465.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fc619d8.css",
-    "static/js/main.7f5023ba.js"
+    "static/js/main.e63fa7e6.js"
   ]
 }
