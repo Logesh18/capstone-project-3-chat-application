@@ -126,7 +126,4 @@
   border: 1px solid #3b2a50 !important;
   margin: 5px 0 5px 0;
 }
-::-webkit-scrollbar {
-  width: -5px;  
-  background: transparent;  
-}
+
