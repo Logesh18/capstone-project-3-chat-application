@@ -9,8 +9,8 @@ export function AuthProvider({ children }) {
   const navigate = useNavigate()
 
   useEffect(() => {
-    auth.onAuthStateChanged(user => {
-      setUser(user)
+    auth.onAuthStateChanged((userDetail) => {
+      setUser(userDetail)
       setLoading(false)
       if(user) navigate('/chats')
     })
