@@ -2,10 +2,11 @@ import firebase from "firebase/compat/app";
 import "firebase/compat/auth";
 
 export const auth = firebase.initializeApp({
-    apiKey: "AIzaSyD0xzyP6J4OyIJVBA0YZ1Kr2NhR4OE28gA",
-    authDomain: "mychatapp-6d2be.firebaseapp.com",
-    projectId: "mychatapp-6d2be",
-    storageBucket: "mychatapp-6d2be.appspot.com",
-    messagingSenderId: "728570286369",
-    appId: "1:728570286369:web:94477db398790809186e60"
+    apiKey: "AIzaSyBlUIKUPCjKmKDrmQHPekr2YRhSuYfHO-8",
+    authDomain: "my-chat-application-524b1.firebaseapp.com",
+    projectId: "my-chat-application-524b1",
+    storageBucket: "my-chat-application-524b1.appspot.com",
+    messagingSenderId: "724699696336",
+    appId: "1:724699696336:web:98b01cb3b55001bea1a2d5",
+    measurementId: "G-N71SHQ1VEZ"
   }).auth()
