@@ -33,6 +33,7 @@ export default function Chats() {
         'https://api.chatengine.io/users/me/',
         { headers: { 
           "project-id": process.env.REACT_APP_CHAT_ENGINE_ID,
+          "private-key": process.env.REACT_APP_CHAT_ENGINE_KEY,
           "user-name": user.email,
           "user-secret": user.uid
         }}
